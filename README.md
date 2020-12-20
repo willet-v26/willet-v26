@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 -->
-##### Movies: www.imdb.com/user/ur54675836 | Music: www.youtube.com/channel/UCc_bWyxaqEUOHj__Jr5oWQA
+
+##### My interests: Movies: www.imdb.com/user/ur54675836 | Music: www.youtube.com/channel/UCc_bWyxaqEUOHj__Jr5oWQA
