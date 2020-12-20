@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 -->
-##### I'm a man from the city and I like to have a lot of options. ;O My first option is Architecture design, but optionally I also check what Web design looks like. My other options to check up, are: Movies: www.imdb.com/user/ur54675836 | Music: www.youtube.com/channel/UCc_bWyxaqEUOHj__Jr5oWQA | and .. Others. But, optionally, I won't write them here. This profile is also an option, selected from many other options after optional-analysis.
+##### I'm a man from the city and I like to have a lot of options. ;O My first option is Architecture design, but optionally I also check what Web design looks like. My other options to check up, are: Movies: www.imdb.com/user/ur54675836 | Music: www.youtube.com/channel/UCc_bWyxaqEUOHj__Jr5oWQA | and .. Others. But, optionally, I won't write them here. This profile is also an option; selected from many other options after optional-analysis.
