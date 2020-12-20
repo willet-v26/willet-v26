@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 -->
-
-##### My interests: Movies: www.imdb.com/user/ur54675836 | Music: www.youtube.com/channel/UCc_bWyxaqEUOHj__Jr5oWQA
+##### I'm a man from the city and I like to have a lot of options. ;O My interests: Movies: www.imdb.com/user/ur54675836 | Music: www.youtube.com/channel/UCc_bWyxaqEUOHj__Jr5oWQA
