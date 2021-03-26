@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ##### I'm a man from the city and I like to have a lot of options. ;O My first option is Architecture design, but optionally I also check what Web design looks like. My other options to check up, are:
 - Movies: www.imdb.com/user/ur54675836 ,
 - Music: www.youtube.com/channel/UCc_bWyxaqEUOHj__Jr5oWQA ,
-##### and .. Others (options).
+- and .. others (options).
 ##### But, optionally, I won't write them here. This profile is also an option; selected from other options after optional-analysis.
 
 ![preview](./images-view/option-a&b.png)
